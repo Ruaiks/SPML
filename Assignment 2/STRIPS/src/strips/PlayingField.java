@@ -15,7 +15,7 @@ public class PlayingField {
 		this.bottomRight = new Field(bottomRight);
 	}
 	
-	public boolean getFinishedState() {
+	public boolean getIsDone() {
 		return isDone;
 	}
 	
